@@ -5,7 +5,7 @@
 ```
 if you does not declare the return type it's is become a dynamic function.
 
-Then it's going to be a proformance intensive function.
+Then it's going to be a performance intensity function.
 ```
 
 ## Use named parameters when ever possible.
